@@ -9,4 +9,4 @@ INNER JOIN country D ON C.country_id = D.country_id
 GROUP BY country 
 ORDER BY COUNT (customer_id) DESC
 LIMIT 10
-![SQL image](https://github.com/ariel-johnson/SQLRepository/blob/main/Top%2010%20Countries%20by%20Customer%20Count.jpg?raw=true)
+[Top 10 Countries by Customer Count.jpg](
